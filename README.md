@@ -33,3 +33,5 @@ Este proyecto consiste en crear una aplicación basada en terminal para programa
    ```bash
    bash tu_script.sh
 
+# Contribuciones
+¡Las contribuciones son bienvenidas! Por favor, siéntete libre de enviar un pull request o crear un issue.
